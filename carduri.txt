@@ -1,0 +1,9 @@
+Denumire card							Numar card			CVV		Data expirarii				Nume si prenume
+Card acceptat, Garanti Bonuscard (*)	9900004810225098	111		Orice data din viitor		Test Test
+Card acceptat, Cardavantaj (*)			99110059532258		111		Orice data din viitor		Test Test
+Card expirat							9900541631437790	111		Orice data din viitor		Test Test
+Fonduri insuficiente					9900518572831942	111		Orice data din viitor		Test Test
+CVV incorect							9900827979991500	111		Orice data din viitor		Test Test
+Verificare antifrauda					9900005786662552	111		Orice data din viitor		Test Test
+Tranzactie nepermisa					9900576270414197	111		Orice data din viitor		Test Test
+Eroare la banca emitenta				9900130597497640	111		Orice data din viitor		Test Test

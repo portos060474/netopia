@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<order type="card" id="string64" timestamp="YYYYmmddHHiiss">
+	<signature>XXXX-XXXX-XXXX-XXXX-XXXX</signature>
+	<url>
+		<confirm>http://www.site_propriu.com/return</confirm>
+		<return>http://www.site_propriu.com/confirm</return>
+	</url>
+	<invoice currency="XXX" amount="LL.BB">
+		<details></details>
+		<contact_info>
+			<billing type="company|person">
+				<first_name>Prenume</first_name>
+				<last_name>Nume</last_name>
+				<country></country>
+				<county></county>
+				<city></city>
+				<zip_code></zip_code>
+				<address></address>
+				<email></email>
+				<mobile_phone></mobile_phone>
+				<bank></bank>
+				<iban></iban>
+			</billing>
+			<shipping type="company|person" sameasbilling="1">
+				<first_name>Prenume</first_name>
+				<last_name>Nume</last_name>
+				<country></country>
+				<county></county>
+				<city></city>
+				<zip_code></zip_code>
+				<address></address>
+				<email></email>
+				<mobile_phone></mobile_phone>
+				<bank></bank>
+				<iban></iban>
+			</shipping>
+		</contact_info>
+	</invoice>
+	<params>
+		<param>
+			<name>param1Name</name>
+			<value>param1Value</value>
+		</param>
+	</params>
+</order>
